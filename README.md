@@ -1,2 +1,2 @@
 # dataset
-contiene dataset 
+contiene dataset con licenza MIT
