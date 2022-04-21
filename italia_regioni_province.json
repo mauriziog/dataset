@@ -1,0 +1,552 @@
+[
+  {
+    "REGIONE": "Abruzzo",
+    "PROVINCIA": "Chieti",
+    "SIGLA": "CH"
+  },
+  {
+    "REGIONE": "Abruzzo",
+    "PROVINCIA": "L_Aquila",
+    "SIGLA": "AQ"
+  },
+  {
+    "REGIONE": "Abruzzo",
+    "PROVINCIA": "Pescara",
+    "SIGLA": "PE"
+  },
+  {
+    "REGIONE": "Abruzzo",
+    "PROVINCIA": "Teramo",
+    "SIGLA": "TE"
+  },
+  {
+    "REGIONE": "Basilicata",
+    "PROVINCIA": "Matera",
+    "SIGLA": "MT"
+  },
+  {
+    "REGIONE": "Basilicata",
+    "PROVINCIA": "Potenza",
+    "SIGLA": "PZ"
+  },
+  {
+    "REGIONE": "Calabria",
+    "PROVINCIA": "Catanzaro",
+    "SIGLA": "CZ"
+  },
+  {
+    "REGIONE": "Calabria",
+    "PROVINCIA": "Cosenza",
+    "SIGLA": "CS"
+  },
+  {
+    "REGIONE": "Calabria",
+    "PROVINCIA": "Crotone",
+    "SIGLA": "KR"
+  },
+  {
+    "REGIONE": "Calabria",
+    "PROVINCIA": "Reggio_Calabria",
+    "SIGLA": "RC"
+  },
+  {
+    "REGIONE": "Calabria",
+    "PROVINCIA": "Vibo_Valentia",
+    "SIGLA": "VV"
+  },
+  {
+    "REGIONE": "Campania",
+    "PROVINCIA": "Avellino",
+    "SIGLA": "AV"
+  },
+  {
+    "REGIONE": "Campania",
+    "PROVINCIA": "Benevento",
+    "SIGLA": "BN"
+  },
+  {
+    "REGIONE": "Campania",
+    "PROVINCIA": "Caserta",
+    "SIGLA": "CE"
+  },
+  {
+    "REGIONE": "Campania",
+    "PROVINCIA": "Napoli",
+    "SIGLA": "NA"
+  },
+  {
+    "REGIONE": "Campania",
+    "PROVINCIA": "Salerno",
+    "SIGLA": "SA"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Bologna",
+    "SIGLA": "BO"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Ferrara",
+    "SIGLA": "FE"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Forli_Cesena",
+    "SIGLA": "FC"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Modena",
+    "SIGLA": "MO"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Parma",
+    "SIGLA": "PR"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Piacenza",
+    "SIGLA": "PC"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Ravenna",
+    "SIGLA": "RA"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Reggio_Emilia",
+    "SIGLA": "RE"
+  },
+  {
+    "REGIONE": "Emilia Romagna",
+    "PROVINCIA": "Rimini",
+    "SIGLA": "RN"
+  },
+  {
+    "REGIONE": "Friuli Venezia Giulia",
+    "PROVINCIA": "Gorizia",
+    "SIGLA": "GO"
+  },
+  {
+    "REGIONE": "Friuli Venezia Giulia",
+    "PROVINCIA": "Pordenone",
+    "SIGLA": "PN"
+  },
+  {
+    "REGIONE": "Friuli Venezia Giulia",
+    "PROVINCIA": "Trieste",
+    "SIGLA": "TS"
+  },
+  {
+    "REGIONE": "Friuli Venezia Giulia",
+    "PROVINCIA": "Udine",
+    "SIGLA": "UD"
+  },
+  {
+    "REGIONE": "Lazio",
+    "PROVINCIA": "Frosinone",
+    "SIGLA": "FR"
+  },
+  {
+    "REGIONE": "Lazio",
+    "PROVINCIA": "Latina",
+    "SIGLA": "LT"
+  },
+  {
+    "REGIONE": "Lazio",
+    "PROVINCIA": "Rieti",
+    "SIGLA": "RI"
+  },
+  {
+    "REGIONE": "Lazio",
+    "PROVINCIA": "Roma",
+    "SIGLA": "Roma"
+  },
+  {
+    "REGIONE": "Lazio",
+    "PROVINCIA": "Viterbo",
+    "SIGLA": "VT"
+  },
+  {
+    "REGIONE": "Liguria",
+    "PROVINCIA": "Genova",
+    "SIGLA": "GE"
+  },
+  {
+    "REGIONE": "Liguria",
+    "PROVINCIA": "Imperia",
+    "SIGLA": "IM"
+  },
+  {
+    "REGIONE": "Liguria",
+    "PROVINCIA": "La_Spezia",
+    "SIGLA": "SP"
+  },
+  {
+    "REGIONE": "Liguria",
+    "PROVINCIA": "Savona",
+    "SIGLA": "SV"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Bergamo",
+    "SIGLA": "BG"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Brescia",
+    "SIGLA": "BS"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Como",
+    "SIGLA": "CO"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Cremona",
+    "SIGLA": "CR"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Lecco",
+    "SIGLA": "LC"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Lodi",
+    "SIGLA": "LO"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Mantova",
+    "SIGLA": "MN"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Milano",
+    "SIGLA": "MI"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Monza_Brianza",
+    "SIGLA": "MB"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Pavia",
+    "SIGLA": "PV"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Sondrio",
+    "SIGLA": "SO"
+  },
+  {
+    "REGIONE": "Lombardia",
+    "PROVINCIA": "Varese",
+    "SIGLA": "VA"
+  },
+  {
+    "REGIONE": "Marche",
+    "PROVINCIA": "Ancona",
+    "SIGLA": "AN"
+  },
+  {
+    "REGIONE": "Marche",
+    "PROVINCIA": "Ascoli_Piceno",
+    "SIGLA": "AP"
+  },
+  {
+    "REGIONE": "Marche",
+    "PROVINCIA": "Fermo",
+    "SIGLA": "FM"
+  },
+  {
+    "REGIONE": "Marche",
+    "PROVINCIA": "Macerata",
+    "SIGLA": "MC"
+  },
+  {
+    "REGIONE": "Marche",
+    "PROVINCIA": "Pesaro_Urbino",
+    "SIGLA": "PU"
+  },
+  {
+    "REGIONE": "Molise",
+    "PROVINCIA": "Campobasso",
+    "SIGLA": "CB"
+  },
+  {
+    "REGIONE": "Molise",
+    "PROVINCIA": "Isernia",
+    "SIGLA": "IS"
+  },
+  {
+    "REGIONE": "Piemonte",
+    "PROVINCIA": "Alessandria",
+    "SIGLA": "AL"
+  },
+  {
+    "REGIONE": "Piemonte",
+    "PROVINCIA": "Asti",
+    "SIGLA": "AT"
+  },
+  {
+    "REGIONE": "Piemonte",
+    "PROVINCIA": "Biella",
+    "SIGLA": "BI"
+  },
+  {
+    "REGIONE": "Piemonte",
+    "PROVINCIA": "Cuneo",
+    "SIGLA": "CN"
+  },
+  {
+    "REGIONE": "Piemonte",
+    "PROVINCIA": "Novara",
+    "SIGLA": "NO"
+  },
+  {
+    "REGIONE": "Piemonte",
+    "PROVINCIA": "Torino",
+    "SIGLA": "TO"
+  },
+  {
+    "REGIONE": "Piemonte",
+    "PROVINCIA": "Verbania",
+    "SIGLA": "VB"
+  },
+  {
+    "REGIONE": "Piemonte",
+    "PROVINCIA": "Vercelli",
+    "SIGLA": "VC"
+  },
+  {
+    "REGIONE": "Puglia",
+    "PROVINCIA": "Bari",
+    "SIGLA": "BA"
+  },
+  {
+    "REGIONE": "Puglia",
+    "PROVINCIA": "Barletta_Andria_Trani",
+    "SIGLA": "BT"
+  },
+  {
+    "REGIONE": "Puglia",
+    "PROVINCIA": "Brindisi",
+    "SIGLA": "BR"
+  },
+  {
+    "REGIONE": "Puglia",
+    "PROVINCIA": "Foggia",
+    "SIGLA": "FG"
+  },
+  {
+    "REGIONE": "Puglia",
+    "PROVINCIA": "Lecce",
+    "SIGLA": "LE"
+  },
+  {
+    "REGIONE": "Puglia",
+    "PROVINCIA": "Taranto",
+    "SIGLA": "TA"
+  },
+  {
+    "REGIONE": "Sardegna",
+    "PROVINCIA": "Cagliari",
+    "SIGLA": "CA"
+  },
+  {
+    "REGIONE": "Sardegna",
+    "PROVINCIA": "Carbonia_Iglesias",
+    "SIGLA": "CI"
+  },
+  {
+    "REGIONE": "Sardegna",
+    "PROVINCIA": "Medio_Campidano",
+    "SIGLA": "VS"
+  },
+  {
+    "REGIONE": "Sardegna",
+    "PROVINCIA": "Nuoro",
+    "SIGLA": "NU"
+  },
+  {
+    "REGIONE": "Sardegna",
+    "PROVINCIA": "Ogliastra",
+    "SIGLA": "OG"
+  },
+  {
+    "REGIONE": "Sardegna",
+    "PROVINCIA": "Olbia Tempio",
+    "SIGLA": "OT"
+  },
+  {
+    "REGIONE": "Sardegna",
+    "PROVINCIA": "Oristano",
+    "SIGLA": "OR"
+  },
+  {
+    "REGIONE": "Sardegna",
+    "PROVINCIA": "Sassari",
+    "SIGLA": "SS"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Agrigento",
+    "SIGLA": "AG"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Caltanissetta",
+    "SIGLA": "CL"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Catania",
+    "SIGLA": "CT"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Enna",
+    "SIGLA": "EN"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Messina",
+    "SIGLA": "ME"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Palermo",
+    "SIGLA": "PA"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Ragusa",
+    "SIGLA": "RG"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Siracusa",
+    "SIGLA": "SR"
+  },
+  {
+    "REGIONE": "Sicilia",
+    "PROVINCIA": "Trapani",
+    "SIGLA": "TP"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Arezzo",
+    "SIGLA": "AR"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Firenze",
+    "SIGLA": "FI"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Grosseto",
+    "SIGLA": "GR"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Livorno",
+    "SIGLA": "LI"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Lucca",
+    "SIGLA": "LU"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Massa_Carrara",
+    "SIGLA": "MS"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Pisa",
+    "SIGLA": "PI"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Pistoia",
+    "SIGLA": "PT"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Prato",
+    "SIGLA": "PO"
+  },
+  {
+    "REGIONE": "Toscana",
+    "PROVINCIA": "Siena",
+    "SIGLA": "SI"
+  },
+  {
+    "REGIONE": "Trentino_Alto_Adige",
+    "PROVINCIA": "Bolzano",
+    "SIGLA": "BZ"
+  },
+  {
+    "REGIONE": "Trentino_Alto_Adige",
+    "PROVINCIA": "Trento",
+    "SIGLA": "TN"
+  },
+  {
+    "REGIONE": "Umbria",
+    "PROVINCIA": "Perugia",
+    "SIGLA": "PG"
+  },
+  {
+    "REGIONE": "Umbria",
+    "PROVINCIA": "Terni",
+    "SIGLA": "TR"
+  },
+  {
+    "REGIONE": "Valle_D_Aosta",
+    "PROVINCIA": "Aosta",
+    "SIGLA": "AO"
+  },
+  {
+    "REGIONE": "Veneto",
+    "PROVINCIA": "Belluno",
+    "SIGLA": "BL"
+  },
+  {
+    "REGIONE": "Veneto",
+    "PROVINCIA": "Padova",
+    "SIGLA": "PD"
+  },
+  {
+    "REGIONE": "Veneto",
+    "PROVINCIA": "Rovigo",
+    "SIGLA": "RO"
+  },
+  {
+    "REGIONE": "Veneto",
+    "PROVINCIA": "Treviso",
+    "SIGLA": "TV"
+  },
+  {
+    "REGIONE": "Veneto",
+    "PROVINCIA": "Venezia",
+    "SIGLA": "VE"
+  },
+  {
+    "REGIONE": "Veneto",
+    "PROVINCIA": "Verona",
+    "SIGLA": "VR"
+  },
+  {
+    "REGIONE": "Veneto",
+    "PROVINCIA": "Vicenza",
+    "SIGLA": "VI"
+  }
+]
