@@ -1,0 +1,324 @@
+[
+  {
+    "n": 1,
+    "Anno": 1974,
+    "totale": 836,
+    "tot_italiani": 688,
+    "tot_stranieri": 148
+  },
+  {
+    "n": 2,
+    "Anno": 1975,
+    "totale": 80,
+    "tot_italiani": 37,
+    "tot_stranieri": 43
+  },
+  {
+    "n": 3,
+    "Anno": 1976,
+    "totale": 82,
+    "tot_italiani": 40,
+    "tot_stranieri": 42
+  },
+  {
+    "n": 4,
+    "Anno": 1977,
+    "totale": 80,
+    "tot_italiani": 62,
+    "tot_stranieri": 18
+  },
+  {
+    "n": 5,
+    "Anno": 1978,
+    "totale": 429,
+    "tot_italiani": 335,
+    "tot_stranieri": 94
+  },
+  {
+    "n": 6,
+    "Anno": 1979,
+    "totale": 492,
+    "tot_italiani": 374,
+    "tot_stranieri": 118
+  },
+  {
+    "n": 7,
+    "Anno": 1980,
+    "totale": 556,
+    "tot_italiani": 415,
+    "tot_stranieri": 141
+  },
+  {
+    "n": 8,
+    "Anno": 1981,
+    "totale": 769,
+    "tot_italiani": 551,
+    "tot_stranieri": 218
+  },
+  {
+    "n": 9,
+    "Anno": 1982,
+    "totale": 710,
+    "tot_italiani": 593,
+    "tot_stranieri": 117
+  },
+  {
+    "n": 10,
+    "Anno": 1983,
+    "totale": 581,
+    "tot_italiani": 485,
+    "tot_stranieri": 96
+  },
+  {
+    "n": 11,
+    "Anno": 1984,
+    "totale": 518,
+    "tot_italiani": 423,
+    "tot_stranieri": 95
+  },
+  {
+    "n": 12,
+    "Anno": 1985,
+    "totale": 526,
+    "tot_italiani": 425,
+    "tot_stranieri": 101
+  },
+  {
+    "n": 13,
+    "Anno": 1986,
+    "totale": 509,
+    "tot_italiani": 393,
+    "tot_stranieri": 116
+  },
+  {
+    "n": 14,
+    "Anno": 1987,
+    "totale": 596,
+    "tot_italiani": 429,
+    "tot_stranieri": 167
+  },
+  {
+    "n": 15,
+    "Anno": 1988,
+    "totale": 555,
+    "tot_italiani": 366,
+    "tot_stranieri": 189
+  },
+  {
+    "n": 16,
+    "Anno": 1989,
+    "totale": 612,
+    "tot_italiani": 429,
+    "tot_stranieri": 183
+  },
+  {
+    "n": 17,
+    "Anno": 1990,
+    "totale": 745,
+    "tot_italiani": 497,
+    "tot_stranieri": 248
+  },
+  {
+    "n": 18,
+    "Anno": 1991,
+    "totale": 1023,
+    "tot_italiani": 607,
+    "tot_stranieri": 416
+  },
+  {
+    "n": 19,
+    "Anno": 1992,
+    "totale": 1026,
+    "tot_italiani": 569,
+    "tot_stranieri": 457
+  },
+  {
+    "n": 20,
+    "Anno": 1993,
+    "totale": 1141,
+    "tot_italiani": 593,
+    "tot_stranieri": 548
+  },
+  {
+    "n": 21,
+    "Anno": 1994,
+    "totale": 919,
+    "tot_italiani": 427,
+    "tot_stranieri": 492
+  },
+  {
+    "n": 22,
+    "Anno": 1995,
+    "totale": 1006,
+    "tot_italiani": 398,
+    "tot_stranieri": 608
+  },
+  {
+    "n": 23,
+    "Anno": 1996,
+    "totale": 1121,
+    "tot_italiani": 387,
+    "tot_stranieri": 734
+  },
+  {
+    "n": 24,
+    "Anno": 1997,
+    "totale": 1364,
+    "tot_italiani": 512,
+    "tot_stranieri": 852
+  },
+  {
+    "n": 25,
+    "Anno": 1998,
+    "totale": 1716,
+    "tot_italiani": 643,
+    "tot_stranieri": 11073
+  },
+  {
+    "n": 26,
+    "Anno": 1999,
+    "totale": 2446,
+    "tot_italiani": 938,
+    "tot_stranieri": 1508
+  },
+  {
+    "n": 27,
+    "Anno": 2000,
+    "totale": 7651,
+    "tot_italiani": 4577,
+    "tot_stranieri": 3074
+  },
+  {
+    "n": 28,
+    "Anno": 2001,
+    "totale": 6188,
+    "tot_italiani": 3566,
+    "tot_stranieri": 2622
+  },
+  {
+    "n": 29,
+    "Anno": 2002,
+    "totale": 5049,
+    "tot_italiani": 2812,
+    "tot_stranieri": 2237
+  },
+  {
+    "n": 30,
+    "Anno": 2003,
+    "totale": 5410,
+    "tot_italiani": 2237,
+    "tot_stranieri": 3173
+  },
+  {
+    "n": 31,
+    "Anno": 2004,
+    "totale": 7920,
+    "tot_italiani": 5101,
+    "tot_stranieri": 2819
+  },
+  {
+    "n": 32,
+    "Anno": 2005,
+    "totale": 8224,
+    "tot_italiani": 5181,
+    "tot_stranieri": 3043
+  },
+  {
+    "n": 33,
+    "Anno": 2006,
+    "totale": 8748,
+    "tot_italiani": 5611,
+    "tot_stranieri": 3137
+  },
+  {
+    "n": 34,
+    "Anno": 2007,
+    "totale": 7666,
+    "tot_italiani": 4762,
+    "tot_stranieri": 2904
+  },
+  {
+    "n": 35,
+    "Anno": 2008,
+    "totale": 8458,
+    "tot_italiani": 5049,
+    "tot_stranieri": 3409
+  },
+  {
+    "n": 36,
+    "Anno": 2009,
+    "totale": 7347,
+    "tot_italiani": 4721,
+    "tot_stranieri": 2626
+  },
+  {
+    "n": 37,
+    "Anno": 2010,
+    "totale": 7362,
+    "tot_italiani": 4561,
+    "tot_stranieri": 2801
+  },
+  {
+    "n": 38,
+    "Anno": 2011,
+    "totale": 10185,
+    "tot_italiani": 5857,
+    "tot_stranieri": 4328
+  },
+  {
+    "n": 39,
+    "Anno": 2012,
+    "totale": 11125,
+    "tot_italiani": 6776,
+    "tot_stranieri": 4349
+  },
+  {
+    "n": 40,
+    "Anno": 2013,
+    "totale": 12233,
+    "tot_italiani": 7216,
+    "tot_stranieri": 5017
+  },
+  {
+    "n": 41,
+    "Anno": 2014,
+    "totale": 15257,
+    "tot_italiani": 7647,
+    "tot_stranieri": 7610
+  },
+  {
+    "n": 42,
+    "Anno": 2015,
+    "totale": 17385,
+    "tot_italiani": 7897,
+    "tot_stranieri": 9488
+  },
+  {
+    "n": 43,
+    "Anno": 2016,
+    "totale": 23909,
+    "tot_italiani": 7867,
+    "tot_stranieri": 16042
+  },
+  {
+    "n": 44,
+    "Anno": 2017,
+    "totale": 21016,
+    "tot_italiani": 7843,
+    "tot_stranieri": 13173
+  },
+  {
+    "n": 45,
+    "Anno": 2018,
+    "totale": 18393,
+    "tot_italiani": 8139,
+    "tot_stranieri": 10254
+  },
+  {
+    "n": 46,
+    "Anno": 2019,
+    "totale": 15209,
+    "tot_italiani": 8024,
+    "tot_stranieri": 7185
+  }
+]
